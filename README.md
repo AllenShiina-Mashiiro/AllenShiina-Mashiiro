@@ -1,8 +1,7 @@
-
 <div align="center">
 
-<!-- Mizuki Blog Original Desktop Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/AllenShiina-Mashiiro/Mizuki-Blog-dev/master/public/assets/desktop-banner/1.webp" alt="Mizuki Blog Original Banner" />
+<!-- Original Mizuki Blog banner: copied from this account's Mizuki-Blog-dev repository -->
+<img width="100%" src="./assets/banner/banner.webp" alt="Mizuki Blog original banner" />
 
 <br/>
 
@@ -43,17 +42,13 @@ I'm **AllenShiina**, a developer who enjoys exploring technology, building perso
 ### Currently Exploring
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,postgres&theme=dark" />
-
 </div>
 
 ### Other Technologies
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github,vscode,windows&theme=dark" />
-
 </div>
 
 ---
@@ -65,7 +60,6 @@ I'm **AllenShiina**, a developer who enjoys exploring technology, building perso
 <a href="https://github.com/AllenShiina-Mashiiro/Mizuki-Blog-dev">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AllenShiina-Mashiiro&repo=Mizuki-Blog-dev&theme=tokyonight&hide_border=true&bg_color=17152B&title_color=BBA9FF&icon_color=9B8BCB" />
 </a>
-
 <a href="https://github.com/AllenShiina-Mashiiro/allenshiina_blog">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AllenShiina-Mashiiro&repo=allenshiina_blog&theme=tokyonight&hide_border=true&bg_color=17152B&title_color=BBA9FF&icon_color=9B8BCB" />
 </a>
@@ -76,15 +70,15 @@ I'm **AllenShiina**, a developer who enjoys exploring technology, building perso
 
 A personal blog project inspired by modern Japanese-style web design.
 
-- Modern web development
-- Focus on UI/UX and visual presentation
-- Exploring Next.js and full-stack architecture
+- Modern web development and UI/UX exploration
+- Customizable visual identity and responsive layouts
+- Exploring modern frontend architecture
 
 **Repository:** [Mizuki-Blog-dev](https://github.com/AllenShiina-Mashiiro/Mizuki-Blog-dev)
 
 ### ✨ Personal Blog
 
-My personal development space, documenting ideas, learning experiences and technical explorations.
+A personal space for documenting ideas, learning experiences and technical explorations.
 
 **Repository:** [allenshiina_blog](https://github.com/AllenShiina-Mashiiro/allenshiina_blog)
 
@@ -94,8 +88,7 @@ My personal development space, documenting ideas, learning experiences and techn
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AllenShiina-Mashiiro&show_icons=true&count_private=true&hide_border=true&bg_color=17152B&title_color=BBA9FF&icon_color=9B8BCB&text_color=D8D2EF&ring_color=BBA9FF&include_all_commits=true" />
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AllenShiina-Mashiiro&show_icons=true&hide_border=true&bg_color=17152B&title_color=BBA9FF&icon_color=9B8BCB&text_color=D8D2EF&ring_color=BBA9FF&include_all_commits=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllenShiina-Mashiiro&layout=compact&langs_count=8&hide_border=true&bg_color=17152B&title_color=BBA9FF&text_color=D8D2EF" />
 
 <br/>
@@ -109,9 +102,7 @@ My personal development space, documenting ideas, learning experiences and techn
 ## 📈 Contribution Activity | 贡献活动
 
 <div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AllenShiina-Mashiiro&bg_color=17152B&color=D8D2EF&line=BBA9FF&point=E8A6CF&area=true&area_color=35305C&hide_border=true&custom_title=Contribution%20Activity" />
-
 </div>
 
 ---
@@ -123,7 +114,6 @@ My personal development space, documenting ideas, learning experiences and techn
 <a href="https://github.com/AllenShiina-Mashiiro">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://github.com/AllenShiina-Mashiiro?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-35305C?style=for-the-badge&logo=git&logoColor=white" />
 </a>
@@ -135,7 +125,5 @@ My personal development space, documenting ideas, learning experiences and techn
 *星光不问赶路人，时光不负有心人。*
 
 *Keep exploring. Keep creating. Keep growing.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8175B5,50:35305C,100:17152B&height=120&section=footer" />
 
 </div>
