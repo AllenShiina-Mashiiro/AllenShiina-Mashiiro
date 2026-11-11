@@ -24,15 +24,15 @@
 
 ### 🎵NetEase Cloud Music
 >This is the app I usually use for listening to music. Unfortunately, my account is currently under a ban, so I can only listen to music—social features are disabled.
-> [NetEase Cloud Music](https://music.163.com/#/user/home?id=3243211881)
+>  [NetEase Cloud Music](https://music.163.com/#/user/home?id=3243211881)
 
 ### 📺 Bilibili
 > I’ve uploaded some videos, but they’re a bit disorganized; I plan to put together a better plan for them later.
-> [Bilibili](https://space.bilibili.com/1685223034)
+>  [Bilibili](https://space.bilibili.com/1685223034)
 
 ### ▶️ Youtube
 > There are currently no plans for this.
-> [Youtube](https://www.youtube.com/@AllenShiina)
+>   [Youtube](https://www.youtube.com/@AllenShiina)
 
 ---
 
