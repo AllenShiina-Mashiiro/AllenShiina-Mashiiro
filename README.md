@@ -9,7 +9,7 @@
 
 <br/>
 
-**「在代码与幻想之间，创造属于自己的世界。」**
+**「你知道的我永远喜欢椎名真白」**
 
 *Between code and imagination, creating my own world.*
 
